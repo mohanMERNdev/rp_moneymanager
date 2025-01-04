@@ -1,0 +1,15 @@
+.header-bg {
+  background-color: #d7dfe9;
+  width: 90vw;
+  height: 20vh;
+  margin-top: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+}
+h1 {
+  margin-top: 0px;
+}
